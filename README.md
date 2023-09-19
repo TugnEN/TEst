@@ -5,7 +5,6 @@ while True:
     if user_answer == Answer_1:
        print('Ответ верный!')
        break
-
     else:
        print('Ты ошибаешься.')
 
@@ -17,7 +16,6 @@ while True:
     if user_answer == Answer_2:
         print('Ответ верный!')
         break
-
     else:
         print('Ты ошибаешься.')
 
@@ -29,7 +27,6 @@ while True:
     if user_answer == Answer_3:
         print('Ответ верный!')
         break
-
     else:
         print('Ты ошибаешься.')
 
@@ -44,7 +41,6 @@ while True:
     if user_answer == Answer_41:
         print('Ответ верный!')
         break
-
     else:
         print('Ты ошибаешься.')
 
@@ -59,8 +55,7 @@ while True:
    if user_answer == Answer_51:
        print('Ответ верный!')
        break
-
-   else:
+    else:
        print('Ты ошибаешься.')
 
 
@@ -71,8 +66,7 @@ while True:
    if user_answer == Answer_6:
        print('Ответ верный!')
        break
-
-   else:
+    else:
        print('Ты ошибаешься.')
 
 
@@ -84,8 +78,7 @@ while True:
    if user_answer == Answer_7:
        print('Ответ верный!')
        break
-
-   else:
+    else:
        print('Ты ошибаешься.')
 
 
@@ -97,7 +90,6 @@ while True:
     if user_answer == Answer_8:
         print('Ответ верный!')
         break
-
     else:
         print('Ты ошибаешься.')
 
@@ -109,7 +101,6 @@ while True:
     if user_answer == Answer_9:
         print('Ответ верный!')
         break
-
     else:
         print('Ты ошибаешься.')
 
@@ -121,6 +112,5 @@ while True:
     if user_answer == Answer_10:
         print('Ответ верный!')
         exit()
-
     else:
         print('Ты ошибаешься.')
